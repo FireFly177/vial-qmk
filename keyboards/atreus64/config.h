@@ -4,15 +4,15 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
+/*
 #define VENDOR_ID       0x6878
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    DuyNguyen
 #define PRODUCT         atreus64
 #define DESCRIPTION     DuyNguyen_atreus64
-#define VIA_EEPROM_LAYOUT_OPTIONS_SIZE 2
-#define VIA_EEPROM_CUSTOM_CONFIG_SIZE 2048
 #define MIDI_ADVANCED
+*/
 
 /* key matrix size */
 #define MATRIX_ROWS 5
